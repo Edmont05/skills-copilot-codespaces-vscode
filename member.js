@@ -1,5 +1,5 @@
 function skillsMemnber(){
     return {
-        restrict: 'E'
+        restrict: 'E',
     }
 }
